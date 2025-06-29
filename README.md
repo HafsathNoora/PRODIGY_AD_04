@@ -1,16 +1,52 @@
-# game_app
+# ❌⭕  gameapp
 
-A new Flutter project.
+A fun and interactive Tic Tac Toe game built using **Flutter**, developed as part of the **Prodigy InfoTech Android Development Internship – Task 04**.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+##  Features
 
-A few resources to get you started if this is your first Flutter project:
+- Two-player mode
+- Interactive 3x3 game grid
+- Turn-based player system
+- Win/draw logic with automatic alerts
+- Reset button to restart the game
+- Visually appealing and responsive UI
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+##  Tech Stack
+
+- **Flutter**
+- **Dart**
+- **VS Code / Android Studio**
+- **Git & GitHub**
+
+---
+
+gameapp/
+├── android/
+├── ios/
+├── lib/
+│   └── main.dart
+├── test/
+├── pubspec.yaml
+└── README.md
+
+Setup Instructions
+Clone the repository:
+
+
+git clone https://github.com/HafsathNoora/PRODIGY_AD_04.git
+cd PRODIGY_AD_04
+Install dependencies:
+flutter pub get
+
+Run the app:
+flutter run
+
+Acknowledgment
+This project is part of the Android Development Internship – Task 04 by Prodigy InfoTech.
+ Author
+Hafsath Noora
+GitHub: @HafsathNoora
